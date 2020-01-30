@@ -1,7 +1,15 @@
 # Turtle Drawing App
-This is my first fully-developed Python-based app using the Turtle module. Course provided by [Skillcrush](https://skillcrush.com).
+A console-based drawing app powered by the Turtle drawing module. Distance coordinates and custom colors are added on the *main.py* file.
 
-When I get better at Python and discover more modules (both built-in and third-party), I'd like to expand this app one day. You can view the app in action by testing its [repl](https://repl.it/@adriculous/Drawing-App-with-Turtle).
+### Features and Skills
+- Modules used: Turtle and Random
+- Shape dimensions calculated on the *main.py* file
+- First app using simple functions, loops, and conditional statements
+
+**See it in action!** [repl](https://repl.it/@adriculous/Drawing-App-with-Turtle).
+
+### Future Plans
+One day, I'd like to add a GUI (using Remi Library) for the drawing app to make it a lot more interactive and attractive to the casual users. I'll also try adding all the coordinations of different shapes on a CSV or a JSON file.
 
 ### Some Links if You're Bored
 - [The ADRICULOUS Life](https://adriculous.life) - personal (non-niche) blog
